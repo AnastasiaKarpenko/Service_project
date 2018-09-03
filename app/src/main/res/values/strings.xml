@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service_project</string>
+    <string name="btn_text_start_service">Start service</string>
+    <string name="btn_text_stop_service">Stop service</string>
+</resources>
