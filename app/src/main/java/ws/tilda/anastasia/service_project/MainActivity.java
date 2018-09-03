@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Create service | done
 
-    //Add a task
+    //Add a task | done
 
     //Create receiver, register dynamically
 
